@@ -1,0 +1,4 @@
+HOWTO:
+Run it use:
+
+sudo python vz_checker.py /proc/user_beancounters
